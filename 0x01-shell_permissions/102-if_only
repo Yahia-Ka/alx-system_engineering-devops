@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chwon -R --from=guillaume betty .
+chown -R --from=guillaume betty hello
